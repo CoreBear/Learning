@@ -7,6 +7,7 @@ namespace Learning
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("New Branch!");
         }
     }
 }
