@@ -10,9 +10,6 @@ namespace Learning
             Console.WriteLine("New Branch!");
             Console.WriteLine("Second commit!");
             Console.WriteLine("Branch 3!");
-            Console.WriteLine("Branch 4!");
-            Console.WriteLine("New 2!");
-            Console.WriteLine("Main main!");
         }
     }
 }
