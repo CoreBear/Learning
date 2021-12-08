@@ -8,6 +8,7 @@ namespace Learning
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("New Branch!");
+            Console.WriteLine("Second commit!");
         }
     }
 }
